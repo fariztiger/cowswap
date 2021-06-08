@@ -172,6 +172,14 @@ export default function Faq() {
             offers the decentralized finance community a teaser of the capabilities of GPv2 through testing upcoming
             features while placing gas free trades.
           </p>
+          
+          <h3 id="why-is-cowswap-a-meta-dex-aggregator">Why is Cowswap a META DEX Aggregator </h3>
+          <p>
+            Cowswap is considered a meta dex aggregator because the trading protocol (Gnosis Protocol v2) is deployed on,
+            is a layer on top of the DEX stack, both the DEX aggregators and the AMMs. We decided to pick the name 
+            Meta DEX aggregator, because, before finding the best trading price for a trade from the available on-chain liquidity,
+            it first checks for a coincidence of wants with other trades to even offer a better price. 
+          </p>
 
           <h3 id="what-is-mev-and-how-much-mev-has-been-extracted-from-users-to-date">
             What is MEV and how much MEV has been extracted from users to date?
